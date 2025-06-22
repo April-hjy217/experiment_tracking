@@ -1,0 +1,10 @@
+# Data outputs
+/output/
+/raw/
+# MLflow tracking
+/mlruns/
+mlflow.db
+# Jupyter
+.ipynb_checkpoints/
+# Models/Artifacts
+/models/
